@@ -4,3 +4,9 @@
 .mullish {
   font-family: "Mulish", sans-serif;
 }
+
+.main-container {
+    max-width: 1600px;
+    margin-inline: auto;
+    padding: 0px 40px;
+}
